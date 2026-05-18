@@ -1,5 +1,3 @@
-
-
 DOMAIN-KEYWORD,sdksnapshot,REJECT
 DOMAIN-KEYWORD,jddebug,REJECT
 DOMAIN,live-ws1.jd.com,REJECT
