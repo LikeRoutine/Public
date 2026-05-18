@@ -1,0 +1,14 @@
+DOMAIN-KEYWORD, google, Global
+DOMAIN-SUFFIX, gstatic.cn, Global
+DOMAIN-SUFFIX, gstatic.com, Global
+DOMAIN-SUFFIX, cdn.ampproject.org, Global
+DOMAIN-SUFFIX, ocsp.pki.goog, Global
+DOMAIN-SUFFIX, crashlytics.com, Global
+DOMAIN, app-analytics-services.com, Global
+DOMAIN-SUFFIX, youtube.com, Global
+DOMAIN-SUFFIX, ytimg.com, Global
+DOMAIN-SUFFIX, ggpht.com, Global
+DOMAIN-SUFFIX, youtu.be, Global
+DOMAIN-SUFFIX, yt.be, Global
+ip-asn, 15169, Global
+ip-asn, 24424, Global

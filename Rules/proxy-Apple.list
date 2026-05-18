@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX, apple.co, Apple
+DOMAIN-SUFFIX, apple.com, Apple
+DOMAIN-SUFFIX, mzstatic.com, Apple
+DOMAIN-SUFFIX, icloud.com, Apple
+DOMAIN-SUFFIX, icloud-content.com, Apple
+DOMAIN-SUFFIX, cdn-apple.com, Apple
+DOMAIN-SUFFIX, mail.me.com, Apple
+ip-asn, 714, Apple
+ip-asn, 6185, Apple
+ip-cidr, 17.0.0.0/8, Apple

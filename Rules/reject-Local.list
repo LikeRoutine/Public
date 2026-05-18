@@ -1,0 +1,108 @@
+
+
+DOMAIN-KEYWORD,sdksnapshot,REJECT
+DOMAIN-KEYWORD,jddebug,REJECT
+DOMAIN,live-ws1.jd.com,REJECT
+DOMAIN,live-ws2.jd.com,REJECT
+DOMAIN,liventp.jd.com,REJECT
+
+URL-REGEX,"dl.*\.pddpic\.com",REJECT
+URL-REGEX,".*livehwc.*\.cn",REJECT
+URL-REGEX,".*-pull-.*\.jdcloud\.com",REJECT
+URL-REGEX,".*pull\.jd\.com",REJECT
+URL-REGEX,"live.*\.jd\.com",REJECT
+URL-REGEX,"live-.*\.jd\.com",REJECT
+URL-REGEX,"live.*\..*\.cn-north-.*\.jdcloud-oss\.com",REJECT
+URL-REGEX,"cdn.*live.*\.zhipin\.com",REJECT
+URL-REGEX,"cdn-zhipin-.*-.*\.zhipin\.com",REJECT
+URL-REGEX,".*vod.*\.meituan\.net",REJECT
+URL-REGEX,".*hlvideo\.meituan\.net",REJECT
+URL-REGEX,"beauty.*flv-live\.meituan\.net",REJECT
+URL-REGEX,"video.*\.pdd.*\.com",REJECT
+URL-REGEX,".*\.umeng.*\..*",REJECT
+URL-REGEX,".*datadog.*\..*",REJECT
+URL-REGEX,"wx.*\.wxs\.qq\.com",REJECT
+URL-REGEX,"p.*-be-pack-sign\.pglstatp-toutiao\.com",REJECT
+URL-REGEX,".*\.umeng.*\..*",REJECT
+URL-REGEX,".*qchannel.*\.cn",REJECT
+URL-REGEX,"ads-.*\.xhscdn\.com",REJECT
+URL-REGEX,".*ad.*\.soulapp\.cn",REJECT
+URL-REGEX,"ad.*\.tencentmusic\.com",REJECT
+
+DOMAIN-KEYWORD, kuaishou, REJECT
+DOMAIN-KEYWORD, flv-live.meituan.net, REJECT
+DOMAIN-KEYWORD, vod.300hu.com, REJECT
+DOMAIN-KEYWORD, amap-offlinedata, REJECT
+DOMAIN-KEYWORD, adtraffic, REJECT
+DOMAIN-KEYWORD, app-measurement, REJECT
+DOMAIN-KEYWORD, adservice, REJECT
+DOMAIN-KEYWORD, doubleclick, REJECT
+DOMAIN-KEYWORD, umeng, REJECT
+DOMAIN-KEYWORD, adeventtracker, REJECT
+DOMAIN-KEYWORD, mmbizwxadpobcos, REJECT
+DOMAIN-KEYWORD, pagead, REJECT
+DOMAIN-KEYWORD, mamasearchad, REJECT
+DOMAIN-KEYWORD, qchannel, REJECT
+DOMAIN-KEYWORD, iadmusicmatvideo, REJECT
+DOMAIN-KEYWORD, tmead, REJECT
+DOMAIN-KEYWORD, adeventtracker, REJECT
+
+DOMAIN, static-ftcms.jd.com, REJECT
+DOMAIN-SUFFIX, flowplus.meituan.net, REJECT
+DOMAIN, live-adapt.pddpic.com, REJECT
+DOMAIN-SUFFIX, livedaxue.alicdn.com, REJECT
+DOMAIN-SUFFIX, livemsgconnect.taobao.com, REJECT
+DOMAIN-SUFFIX, live-spare.alicdn.com, REJECT
+DOMAIN-SUFFIX, live-ifs.tanx.com, REJECT
+DOMAIN, ai.amap.com, REJECT
+DOMAIN, dispatcher.is.autonavi.com, REJECT
+DOMAIN, api-access.pangolin-sdk-toutiao1.com, REJECT
+DOMAIN-SUFFIX, scorecardresearch.com, REJECT
+DOMAIN-SUFFIX, branch.io, REJECT
+DOMAIN-SUFFIX, inmobi.com, REJECT
+DOMAIN-SUFFIX, ad.cyapi.cn, REJECT
+DOMAIN-SUFFIX, data.flurry.com, REJECT
+DOMAIN-SUFFIX, uyunad.com, REJECT
+DOMAIN-SUFFIX, ads.privacy.qq.com, REJECT
+DOMAIN-SUFFIX, mobads-pre-config.cdn.bcebos.com, REJECT
+DOMAIN-SUFFIX, ugdtimg.com, REJECT
+DOMAIN-SUFFIX, gdtimg.com, REJECT
+DOMAIN-SUFFIX, innoads.cn, REJECT
+DOMAIN-SUFFIX, h.trace.qq.com, REJECT
+DOMAIN-SUFFIX, oth.eve.mdt.qq.com, REJECT
+DOMAIN-SUFFIX, report.kg.qq.com, REJECT
+DOMAIN-SUFFIX, analytics.tiktok.com, REJECT
+DOMAIN-SUFFIX, hotpatch.cup.com.cn, REJECT
+DOMAIN-SUFFIX, adim.pinduoduo.com, REJECT
+DOMAIN-SUFFIX, wwads.cn, REJECT
+DOMAIN-SUFFIX, dtmall-tel.alicdn.com, REJECT
+DOMAIN-SUFFIX, page.amap.com, REJECT
+DOMAIN-SUFFIX, awaken.amap.com, REJECT
+DOMAIN-SUFFIX, optimus-ads.amap.com, REJECT
+DOMAIN-SUFFIX, adashxgc.ut.taobao.com, REJECT
+DOMAIN-SUFFIX, adimg.uve.weibo.com, REJECT
+DOMAIN-SUFFIX, kadmimage.biz.weibo.com, REJECT
+DOMAIN-SUFFIX, adstrategy.biz.weibo.com, REJECT
+DOMAIN-SUFFIX, ad.us.sinaimg.cn, REJECT
+DOMAIN-SUFFIX, sogaha.cn, REJECT
+DOMAIN-SUFFIX, adtrack.xiaojukeji.com, REJECT
+DOMAIN-SUFFIX, ads.95516.com, REJECT
+DOMAIN-SUFFIX, ad.caiyunapp.com, REJECT
+DOMAIN-SUFFIX, iflyad.bj.openstorage.cn, REJECT
+DOMAIN-SUFFIX, bjimp.voiceads.cn, REJECT
+DOMAIN-SUFFIX, ad.api.moji.com, REJECT
+DOMAIN-SUFFIX, adlaunch.moji.com, REJECT
+DOMAIN-SUFFIX, ad.track.66mobi.com, REJECT
+DOMAIN-SUFFIX, smartad.10010.com, REJECT
+DOMAIN-SUFFIX, m1.ad.10010.com, REJECT
+DOMAIN-SUFFIX, tmead.y.qq.com, REJECT
+DOMAIN-SUFFIX, tmeadcommquic.y.qq.com, REJECT
+DOMAIN-SUFFIX, adstats.tencentmusic.com, REJECT
+DOMAIN-SUFFIX, iadmatapk.nosdn.127.net, REJECT
+DOMAIN-SUFFIX, ipv4.music.163.com, REJECT
+DOMAIN-SUFFIX, ipv6.music.163.com, REJECT
+DOMAIN-SUFFIX, iadmusicmat.music.126.net, REJECT
+DOMAIN-SUFFIX, safebrowsing.urlsec.qq.com, REJECT
+DOMAIN, safebrowsing.urlsec.qq.com, REJECT
+DOMAIN-SUFFIX,buzzinglickdemonstration.com,REJECT
+DOMAIN,browser-intake-us5-datadoghq.com,REJECT
