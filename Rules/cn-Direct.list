@@ -9,7 +9,6 @@ IP-CIDR, 255.255.255.255/32, DIRECT, no-resolve
 
 DOMAIN-SUFFIX, push.apple.com,DIRECT
 
-DOMAIN-SUFFIX, ibytedapm.com, DIRECT
 DOMAIN-SUFFIX, douyinstatic.com, DIRECT
 DOMAIN-SUFFIX, bytegoofy.com, DIRECT
 DOMAIN-SUFFIX, bytetos.com, DIRECT
