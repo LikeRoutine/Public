@@ -3862,7 +3862,7 @@ DOMAIN, sheerherb-oem.com, Global
 DOMAIN-SUFFIX, cookieyes.com, Global
 DOMAIN-SUFFIX, sony.net, Global
 DOMAIN-SUFFIX, ndmdhs.com, Global
-DOMAIN, sony.com, Global
+DOMAIN-SUFFIX, sony.com, Global
 DOMAIN-SUFFIX, seeds.services, Global
 DOMAIN, pypi.org, Global
 DOMAIN-SUFFIX, catchpoint.com, Global
