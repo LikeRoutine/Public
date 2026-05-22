@@ -6,6 +6,11 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+# ====== 关键修改：赋予工作流写入仓库的权限 ======
+permissions:
+  contents: write
+# ============================================
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,10 +21,8 @@ jobs:
 
       - name: Process Proxy List
         run: |
-          # 下载 proxy-list.txt，如果失败（如 404/500）curl 会返回非 0 状态码
           if curl -f -sSL https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt -o tmp_proxy.txt && [ -s tmp_proxy.txt ]; then
             echo "Proxy 源文件下载成功且不为空，开始转换..."
-            # 清洗数据并覆盖写入 proxy.list
             grep -v -E '^(regexp:|full:|#)' tmp_proxy.txt | grep -v '^$' | sed 's/^/DOMAIN-SUFFIX,/;s/$/,Global/' > proxy.list
             rm tmp_proxy.txt
           else
@@ -29,10 +32,8 @@ jobs:
 
       - name: Process Direct List
         run: |
-          # 下载 direct-list.txt，如果失败 curl 会返回非 0 状态码
           if curl -f -sSL https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt -o tmp_direct.txt && [ -s tmp_direct.txt ]; then
             echo "Direct 源文件下载成功且不为空，开始转换..."
-            # 清洗数据并覆盖写入 direct.list
             grep -v -E '^(regexp:|full:|#)' tmp_direct.txt | grep -v '^$' | sed 's/^/DOMAIN-SUFFIX,/;s/$/,DIRECT/' > direct.list
             rm tmp_direct.txt
           else
@@ -45,7 +46,6 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 检查是否有文件更新，有更新则提交
           git add proxy.list direct.list
           if ! git diff --cached --quiet; then
             git commit -m "自动更新路由规则列表 ($(date +'%Y-%m-%d %H:%M:%S'))"
