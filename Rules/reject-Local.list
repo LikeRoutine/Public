@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,ad2.fivecdm.com,REJECT
+
 DOMAIN-KEYWORD,sdksnapshot,REJECT
 DOMAIN-KEYWORD,jddebug,REJECT
 DOMAIN,live-ws1.jd.com,REJECT
