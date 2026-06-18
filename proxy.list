@@ -1843,6 +1843,7 @@ DOMAIN-SUFFIX,appbridge.io,Global
 DOMAIN-SUFFIX,appbridge.it,Global
 DOMAIN-SUFFIX,appcenter.ms,Global
 DOMAIN-SUFFIX,appcloud.com,Global
+DOMAIN-SUFFIX,appconsent.io,Global
 DOMAIN-SUFFIX,appdomain.cloud,Global
 DOMAIN-SUFFIX,appdynamics.co.uk,Global
 DOMAIN-SUFFIX,appdynamics.com,Global
@@ -2738,6 +2739,7 @@ DOMAIN-SUFFIX,awwcn.buzz,Global
 DOMAIN-SUFFIX,awwcn.xyz,Global
 DOMAIN-SUFFIX,awxcdn.com,Global
 DOMAIN-SUFFIX,axbdoll.com.tw,Global
+DOMAIN-SUFFIX,axept.io,Global
 DOMAIN-SUFFIX,axios.com,Global
 DOMAIN-SUFFIX,axureformac.com,Global
 DOMAIN-SUFFIX,ayabank.com,Global
@@ -5050,6 +5052,7 @@ DOMAIN-SUFFIX,cdjp.org,Global
 DOMAIN-SUFFIX,cdkworkshop.com,Global
 DOMAIN-SUFFIX,cdmatech.com,Global
 DOMAIN-SUFFIX,cdn-apple.com,Global
+DOMAIN-SUFFIX,cdn-cookieyes.com,Global
 DOMAIN-SUFFIX,cdn-telegram.org,Global
 DOMAIN-SUFFIX,cdn-terapeak.com,Global
 DOMAIN-SUFFIX,cdn-tinkoff.ru,Global
@@ -5771,6 +5774,7 @@ DOMAIN-SUFFIX,conoha.jp,Global
 DOMAIN-SUFFIX,conquerwithcharacter.com,Global
 DOMAIN-SUFFIX,conscrypt.com,Global
 DOMAIN-SUFFIX,conscrypt.org,Global
+DOMAIN-SUFFIX,consentmanager.net,Global
 DOMAIN-SUFFIX,consentpro.com,Global
 DOMAIN-SUFFIX,constructware.com,Global
 DOMAIN-SUFFIX,consul.io,Global
@@ -5780,9 +5784,11 @@ DOMAIN-SUFFIX,contechacademy.com,Global
 DOMAIN-SUFFIX,contentful.com,Global
 DOMAIN-SUFFIX,contest.com,Global
 DOMAIN-SUFFIX,convrgencegame.com,Global
+DOMAIN-SUFFIX,cookiebot.com,Global
 DOMAIN-SUFFIX,cookiechoices.org,Global
 DOMAIN-SUFFIX,cookielaw.org,Global
 DOMAIN-SUFFIX,cookiepro.com,Global
+DOMAIN-SUFFIX,cookieyes.com,Global
 DOMAIN-SUFFIX,cool-comics.com,Global
 DOMAIN-SUFFIX,cool18.com,Global
 DOMAIN-SUFFIX,cool3c.com,Global
@@ -21264,7 +21270,6 @@ DOMAIN-SUFFIX,supanimegames.com,Global
 DOMAIN-SUFFIX,supchina.com,Global
 DOMAIN-SUFFIX,superadultgames.com,Global
 DOMAIN-SUFFIX,supercell.com,Global
-DOMAIN-SUFFIX,supercell.helpshift.com,Global
 DOMAIN-SUFFIX,supercell.net,Global
 DOMAIN-SUFFIX,supercellcreators.com,Global
 DOMAIN-SUFFIX,supercellgames.com,Global
@@ -21671,6 +21676,7 @@ DOMAIN-SUFFIX,terapeak.info,Global
 DOMAIN-SUFFIX,teraperk.com,Global
 DOMAIN-SUFFIX,terk.nl,Global
 DOMAIN-SUFFIX,termius.com,Global
+DOMAIN-SUFFIX,termly.io,Global
 DOMAIN-SUFFIX,termux.com,Global
 DOMAIN-SUFFIX,termux.dev,Global
 DOMAIN-SUFFIX,termux.org,Global
@@ -22334,6 +22340,7 @@ DOMAIN-SUFFIX,truefi.io,Global
 DOMAIN-SUFFIX,truenas.com,Global
 DOMAIN-SUFFIX,trunest.com,Global
 DOMAIN-SUFFIX,trust-provider.com,Global
+DOMAIN-SUFFIX,trustarc.com,Global
 DOMAIN-SUFFIX,trustcor.ca,Global
 DOMAIN-SUFFIX,trustcor.com,Global
 DOMAIN-SUFFIX,trustdoc.ch,Global
