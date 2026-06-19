@@ -29,6 +29,30 @@ URL-REGEX,"ads-.*\.xhscdn\.com",REJECT
 URL-REGEX,".*ad.*\.soulapp\.cn",REJECT
 URL-REGEX,"ad.*\.tencentmusic\.com",REJECT
 
+host-wildcard, *livehwc*.cn, reject
+host-wildcard, *-pull-*.jdcloud.com, reject
+host-wildcard, *pull.jd.com, reject
+host-wildcard, live*.jd.com, reject
+host-wildcard, live-*.jd.com, reject
+host-wildcard, live*.*.cn-north-*.jdcloud-oss.com, reject
+host-wildcard, cdn*live*.zhipin.com, reject
+host-wildcard, cdn-zhipin-*-*.zhipin.com, reject
+host-wildcard, *vod*.meituan.net, reject
+host-wildcard, *hlvideo.meituan.net, reject
+host-wildcard, beauty*flv-live.meituan.net, reject
+host-wildcard, video*.pdd*.com, reject
+host-wildcard, *.umeng*.*, reject
+host-wildcard, *datadog*.*, reject
+host-wildcard, wx*.wxs.qq.com, reject
+host-wildcard, p*-be-pack-sign.pglstatp-toutiao.com, reject
+host-wildcard, *.umeng*.*, reject
+host-wildcard, dl*.pddpic.com, reject
+host-wildcard, *qchannel*.cn, reject
+host-wildcard, *f*y*t*j*b*.*, reject
+host-wildcard, ads-*.xhscdn.com, reject
+host-wildcard, *ad*.soulapp.cn, reject
+host-wildcard, ad*.tencentmusic.com, reject
+
 DOMAIN-KEYWORD, kuaishou, REJECT
 DOMAIN-KEYWORD, flv-live.meituan.net, REJECT
 DOMAIN-KEYWORD, vod.300hu.com, REJECT
