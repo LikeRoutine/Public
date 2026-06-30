@@ -5,3 +5,5 @@ DOMAIN-KEYWORD, oaistatic, US
 DOMAIN-KEYWORD, oaiusercontent, US
 DOMAIN-KEYWORD, anthropic, US
 DOMAIN-KEYWORD, claude, US
+DOMAIN-SUFFIX,anthropic.com, US
+DOMAIN-SUFFIX,claude.ai, US
