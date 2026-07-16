@@ -2796,6 +2796,7 @@ DOMAIN-SUFFIX,azuredns-prd.info,Global
 DOMAIN-SUFFIX,azuredns-prd.org,Global
 DOMAIN-SUFFIX,azureedge-test.net,Global
 DOMAIN-SUFFIX,azureedge.net,Global
+DOMAIN-SUFFIX,azureedge.us,Global
 DOMAIN-SUFFIX,azurefd.net,Global
 DOMAIN-SUFFIX,azureiotcentral.com,Global
 DOMAIN-SUFFIX,azureiotsolutions.com,Global
@@ -5828,6 +5829,7 @@ DOMAIN-SUFFIX,coomer.su,Global
 DOMAIN-SUFFIX,coova.com,Global
 DOMAIN-SUFFIX,coova.net,Global
 DOMAIN-SUFFIX,coova.org,Global
+DOMAIN-SUFFIX,copilot-stg.com,Global
 DOMAIN-SUFFIX,copilot.com,Global
 DOMAIN-SUFFIX,copro.pw,Global
 DOMAIN-SUFFIX,copy-manga.com,Global
@@ -14843,6 +14845,7 @@ DOMAIN-SUFFIX,mgstage.com,Global
 DOMAIN-SUFFIX,mh4u.org,Global
 DOMAIN-SUFFIX,mhcb.ru,Global
 DOMAIN-SUFFIX,mhcbr.ru,Global
+DOMAIN-SUFFIX,mhgui.com,Global
 DOMAIN-SUFFIX,mhhanman.xyz,Global
 DOMAIN-SUFFIX,mhqwe.xyz,Global
 DOMAIN-SUFFIX,mhradio.org,Global
@@ -21148,6 +21151,7 @@ DOMAIN-SUFFIX,starfieldtech.com,Global
 DOMAIN-SUFFIX,starfox.com,Global
 DOMAIN-SUFFIX,stargazer-games.com,Global
 DOMAIN-SUFFIX,stark-verlag.ch,Global
+DOMAIN-SUFFIX,starlink.com,Global
 DOMAIN-SUFFIX,starott.com,Global
 DOMAIN-SUFFIX,starp2p.com,Global
 DOMAIN-SUFFIX,starplus.com,Global
