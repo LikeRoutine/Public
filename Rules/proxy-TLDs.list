@@ -18,7 +18,7 @@ DOMAIN-SUFFIX, sb, Global
 DOMAIN-SUFFIX, sbs, Global
 DOMAIN-SUFFIX, sh, Global
 DOMAIN-SUFFIX, ss, Global
-DOMAIN-SUFFIX, tech, Global
+#DOMAIN-SUFFIX, tech, Global
 DOMAIN-SUFFIX, tr, Global
 DOMAIN-SUFFIX, vip, Global
 DOMAIN-SUFFIX, day, Global
