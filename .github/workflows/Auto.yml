@@ -14,7 +14,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -34,7 +33,7 @@ jobs:
         run: |
           if curl -f -sSL https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt -o tmp_direct.txt && [ -s tmp_direct.txt ]; then
             echo "Direct 源文件下载成功且不为空，开始转换..."
-            grep -v -E '^(regexp:|full:|#)' tmp_direct.txt | grep -v '^$' | sed 's/^/DOMAIN-SUFFIX,/;s/$/,DIRECT/' > direct.list
+            grep -v -E '^(regexp:|full:|#)' tmp_direct.txt | grep -v '^$' | grep -v '^cn$' | sed 's/^/DOMAIN-SUFFIX,/;s/$/,DIRECT/' > direct.list
             rm tmp_direct.txt
           else
             echo "警告：Direct 源文件下载失败或内容为空！跳过本次更新，保持原文件不变。"
@@ -45,7 +44,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
           git add proxy.list direct.list
           if ! git diff --cached --quiet; then
             git commit -m "自动更新路由规则列表 ($(date +'%Y-%m-%d %H:%M:%S'))"
