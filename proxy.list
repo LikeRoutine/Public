@@ -206,6 +206,7 @@ DOMAIN-SUFFIX,2025copy.com,Global
 DOMAIN-SUFFIX,2047.name,Global
 DOMAIN-SUFFIX,2047.one,Global
 DOMAIN-SUFFIX,2049bbs.xyz,Global
+DOMAIN-SUFFIX,20thcenturystudios.com,Global
 DOMAIN-SUFFIX,20thcenturystudios.com.au,Global
 DOMAIN-SUFFIX,20thcenturystudios.com.br,Global
 DOMAIN-SUFFIX,20thcenturystudios.jp,Global
@@ -235,10 +236,14 @@ DOMAIN-SUFFIX,2beeg.me,Global
 DOMAIN-SUFFIX,2bit8.com,Global
 DOMAIN-SUFFIX,2buybeatsbydre.com,Global
 DOMAIN-SUFFIX,2ch.hk,Global
+DOMAIN-SUFFIX,2ch.life,Global
 DOMAIN-SUFFIX,2ch.net,Global
+DOMAIN-SUFFIX,2ch.org,Global
+DOMAIN-SUFFIX,2ch.su,Global
 DOMAIN-SUFFIX,2chav.com,Global
 DOMAIN-SUFFIX,2dgen.com,Global
 DOMAIN-SUFFIX,2drdrebeats.com,Global
+DOMAIN-SUFFIX,2dust.link,Global
 DOMAIN-SUFFIX,2gayboys.com,Global
 DOMAIN-SUFFIX,2gis.ae,Global
 DOMAIN-SUFFIX,2gis.am,Global
@@ -627,6 +632,7 @@ DOMAIN-SUFFIX,abc.net.au,Global
 DOMAIN-SUFFIX,abc.xyz,Global
 DOMAIN-SUFFIX,abcheadphones.com,Global
 DOMAIN-SUFFIX,abclider.com,Global
+DOMAIN-SUFFIX,abcnews.com,Global
 DOMAIN-SUFFIX,abeatsbydrdre.com,Global
 DOMAIN-SUFFIX,abebooks.co.uk,Global
 DOMAIN-SUFFIX,abebooks.com,Global
@@ -1633,6 +1639,7 @@ DOMAIN-SUFFIX,amlg.io,Global
 DOMAIN-SUFFIX,amnesty.org,Global
 DOMAIN-SUFFIX,amnesty.org.hk,Global
 DOMAIN-SUFFIX,amnestyusa.org,Global
+DOMAIN-SUFFIX,amnezia.org,Global
 DOMAIN-SUFFIX,amodoll.com,Global
 DOMAIN-SUFFIX,amourangels.com,Global
 DOMAIN-SUFFIX,amp.dev,Global
@@ -2882,6 +2889,7 @@ DOMAIN-SUFFIX,baltimorebmw.com,Global
 DOMAIN-SUFFIX,baltnews.com,Global
 DOMAIN-SUFFIX,baltnews.lt,Global
 DOMAIN-SUFFIX,bamgrid.com,Global
+DOMAIN-SUFFIX,bamtech.net,Global
 DOMAIN-SUFFIX,bamtoki.com,Global
 DOMAIN-SUFFIX,banan.tv,Global
 DOMAIN-SUFFIX,banana-vpn.com,Global
@@ -4738,7 +4746,6 @@ DOMAIN-SUFFIX,byrut.org,Global
 DOMAIN-SUFFIX,byspotify.com,Global
 DOMAIN-SUFFIX,bystys.tech,Global
 DOMAIN-SUFFIX,bytedapm.com,Global
-DOMAIN-SUFFIX,byteoversea.com,Global
 DOMAIN-SUFFIX,bytick.com,Global
 DOMAIN-SUFFIX,c-est-simple.com,Global
 DOMAIN-SUFFIX,c-ij.com,Global
@@ -5500,10 +5507,13 @@ DOMAIN-SUFFIX,clannad-movie.jp,Global
 DOMAIN-SUFFIX,claravenger.com,Global
 DOMAIN-SUFFIX,clarivate.com,Global
 DOMAIN-SUFFIX,clash.com,Global
+DOMAIN-SUFFIX,clashmi.app,Global
 DOMAIN-SUFFIX,clashmini.com,Global
 DOMAIN-SUFFIX,clashofclans.com,Global
+DOMAIN-SUFFIX,clashparty.org,Global
 DOMAIN-SUFFIX,clashroyale.com,Global
 DOMAIN-SUFFIX,clashroyaleapp.com,Global
+DOMAIN-SUFFIX,clashverge.dev,Global
 DOMAIN-SUFFIX,clashyun.com,Global
 DOMAIN-SUFFIX,clasporno.org,Global
 DOMAIN-SUFFIX,classicalguitarblog.net,Global
@@ -5566,9 +5576,11 @@ DOMAIN-SUFFIX,cloudflare-gateway.com,Global
 DOMAIN-SUFFIX,cloudflare-ipfs.com,Global
 DOMAIN-SUFFIX,cloudflare-quic.com,Global
 DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com,Global
+DOMAIN-SUFFIX,cloudflare.app,Global
 DOMAIN-SUFFIX,cloudflare.com,Global
 DOMAIN-SUFFIX,cloudflare.dev,Global
 DOMAIN-SUFFIX,cloudflare.net,Global
+DOMAIN-SUFFIX,cloudflare.pay,Global
 DOMAIN-SUFFIX,cloudflare.tv,Global
 DOMAIN-SUFFIX,cloudflareaccess.com,Global
 DOMAIN-SUFFIX,cloudflareapps.com,Global
@@ -6489,7 +6501,6 @@ DOMAIN-SUFFIX,deltacredit.ru,Global
 DOMAIN-SUFFIX,deluxe.com.hk,Global
 DOMAIN-SUFFIX,delvenetworks.com,Global
 DOMAIN-SUFFIX,demandware.com,Global
-DOMAIN-SUFFIX,demdex.net,Global
 DOMAIN-SUFFIX,demo.unlock-music.dev,Global
 DOMAIN-SUFFIX,democracy.earth,Global
 DOMAIN-SUFFIX,demonoid.is,Global
@@ -6540,6 +6551,7 @@ DOMAIN-SUFFIX,destinationbim.com,Global
 DOMAIN-SUFFIX,detaliczny.com,Global
 DOMAIN-SUFFIX,detentiongirls.com,Global
 DOMAIN-SUFFIX,detodosparatodos.org,Global
+DOMAIN-SUFFIX,detpress.com,Global
 DOMAIN-SUFFIX,dettol-prize.com,Global
 DOMAIN-SUFFIX,dettol.at,Global
 DOMAIN-SUFFIX,dettol.be,Global
@@ -6814,7 +6826,9 @@ DOMAIN-SUFFIX,disney.ro,Global
 DOMAIN-SUFFIX,disney.ru,Global
 DOMAIN-SUFFIX,disney.se,Global
 DOMAIN-SUFFIX,disney.sg,Global
+DOMAIN-SUFFIX,disneyaccount.com,Global
 DOMAIN-SUFFIX,disneyadsales.com,Global
+DOMAIN-SUFFIX,disneyanimation.com,Global
 DOMAIN-SUFFIX,disneyarena.com,Global
 DOMAIN-SUFFIX,disneyaulani.com,Global
 DOMAIN-SUFFIX,disneybaby.com,Global
@@ -6830,6 +6844,7 @@ DOMAIN-SUFFIX,disneyinternational.com,Global
 DOMAIN-SUFFIX,disneyinternationalhd.com,Global
 DOMAIN-SUFFIX,disneyjunior.com,Global
 DOMAIN-SUFFIX,disneyjuniortreataday.com,Global
+DOMAIN-SUFFIX,disneylandparis.com,Global
 DOMAIN-SUFFIX,disneylatino.com,Global
 DOMAIN-SUFFIX,disneymagicmoments.co.il,Global
 DOMAIN-SUFFIX,disneymagicmoments.co.uk,Global
@@ -6851,11 +6866,13 @@ DOMAIN-SUFFIX,disneynow.com,Global
 DOMAIN-SUFFIX,disneypeoplesurveys.com,Global
 DOMAIN-SUFFIX,disneyplus.bn5x.net,Global
 DOMAIN-SUFFIX,disneyplus.com,Global
+DOMAIN-SUFFIX,disneyprivacycenter.com,Global
 DOMAIN-SUFFIX,disneyredirects.com,Global
 DOMAIN-SUFFIX,disneysrivieraresort.com,Global
 DOMAIN-SUFFIX,disneystore.com,Global
 DOMAIN-SUFFIX,disneystreaming.com,Global
 DOMAIN-SUFFIX,disneysubscription.com,Global
+DOMAIN-SUFFIX,disneytermsofuse.com,Global
 DOMAIN-SUFFIX,disneytickets.co.uk,Global
 DOMAIN-SUFFIX,disneyturkiye.com.tr,Global
 DOMAIN-SUFFIX,disneytvajobs.com,Global
@@ -8853,6 +8870,7 @@ DOMAIN-SUFFIX,flathub.org,Global
 DOMAIN-SUFFIX,flatmates.com.au,Global
 DOMAIN-SUFFIX,flatpak.org,Global
 DOMAIN-SUFFIX,flatt.tech,Global
+DOMAIN-SUFFIX,flclashx.app,Global
 DOMAIN-SUFFIX,fldz8.buzz,Global
 DOMAIN-SUFFIX,flecheinthepeche.fr,Global
 DOMAIN-SUFFIX,fleshbot.com,Global
@@ -8889,6 +8907,7 @@ DOMAIN-SUFFIX,flowfront.net,Global
 DOMAIN-SUFFIX,flowgpt.com,Global
 DOMAIN-SUFFIX,flowhongkong.net,Global
 DOMAIN-SUFFIX,flowtype.org,Global
+DOMAIN-SUFFIX,flowvy.io,Global
 DOMAIN-SUFFIX,flowwow-images.com,Global
 DOMAIN-SUFFIX,flowwow.com,Global
 DOMAIN-SUFFIX,fluffychat.im,Global
@@ -9223,6 +9242,7 @@ DOMAIN-SUFFIX,freefacebook.net,Global
 DOMAIN-SUFFIX,freefacebookads.net,Global
 DOMAIN-SUFFIX,freefblikes.com,Global
 DOMAIN-SUFFIX,freefbx.com,Global
+DOMAIN-SUFFIX,freeform.com,Global
 DOMAIN-SUFFIX,freegao.com,Global
 DOMAIN-SUFFIX,freegaypornhdtube.com,Global
 DOMAIN-SUFFIX,freegaysexgames.com,Global
@@ -11216,6 +11236,7 @@ DOMAIN-SUFFIX,honawalaan.com,Global
 DOMAIN-SUFFIX,honestpornreviews.com,Global
 DOMAIN-SUFFIX,hongjie10.xyz,Global
 DOMAIN-SUFFIX,hongjie11.xyz,Global
+DOMAIN-SUFFIX,hongkongdisneyland.com,Global
 DOMAIN-SUFFIX,hongkongdoll.tv,Global
 DOMAIN-SUFFIX,hongkongdollvideo.org,Global
 DOMAIN-SUFFIX,hongkongfp.com,Global
@@ -12172,6 +12193,7 @@ DOMAIN-SUFFIX,incloak.com,Global
 DOMAIN-SUFFIX,inclusivegrowthscore.com,Global
 DOMAIN-SUFFIX,incommon-rsa.org,Global
 DOMAIN-SUFFIX,incredibox.fr,Global
+DOMAIN-SUFFIX,incy.cc,Global
 DOMAIN-SUFFIX,ind.sh,Global
 DOMAIN-SUFFIX,indazn.com,Global
 DOMAIN-SUFFIX,indaznlab.com,Global
@@ -13402,6 +13424,7 @@ DOMAIN-SUFFIX,kards.com,Global
 DOMAIN-SUFFIX,karechat.ai,Global
 DOMAIN-SUFFIX,karger.com,Global
 DOMAIN-SUFFIX,karinahart.com,Global
+DOMAIN-SUFFIX,karing.app,Global
 DOMAIN-SUFFIX,karlajames.com,Global
 DOMAIN-SUFFIX,karmahelp.ru,Global
 DOMAIN-SUFFIX,karta-banka-rf.ru,Global
@@ -14209,6 +14232,7 @@ DOMAIN-SUFFIX,luanlunmv.cc,Global
 DOMAIN-SUFFIX,lubetube.com,Global
 DOMAIN-SUFFIX,lucahmelayu.club,Global
 DOMAIN-SUFFIX,lucasentertainment.com,Global
+DOMAIN-SUFFIX,lucasfilm.com,Global
 DOMAIN-SUFFIX,luckydesigner.space,Global
 DOMAIN-SUFFIX,luckyissue.com,Global
 DOMAIN-SUFFIX,luckymobile.ca,Global
@@ -16188,6 +16212,7 @@ DOMAIN-SUFFIX,nbtvpn.com,Global
 DOMAIN-SUFFIX,nbys.tv,Global
 DOMAIN-SUFFIX,nbys1.tv,Global
 DOMAIN-SUFFIX,nbyy.tv,Global
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov,Global
 DOMAIN-SUFFIX,nchrd.org,Global
 DOMAIN-SUFFIX,ncl.edu.tw,Global
 DOMAIN-SUFFIX,ncloud.com,Global
@@ -16217,6 +16242,7 @@ DOMAIN-SUFFIX,negoziomonsterbeats.com,Global
 DOMAIN-SUFFIX,neicad.com,Global
 DOMAIN-SUFFIX,neiexplicit.com,Global
 DOMAIN-SUFFIX,neifea.com,Global
+DOMAIN-SUFFIX,neigbuy.com,Global
 DOMAIN-SUFFIX,neimotion.com,Global
 DOMAIN-SUFFIX,neinastranincad.com,Global
 DOMAIN-SUFFIX,neisoftware.com,Global
@@ -16801,6 +16827,7 @@ DOMAIN-SUFFIX,nsfw.xxx,Global
 DOMAIN-SUFFIX,nsfw247.to,Global
 DOMAIN-SUFFIX,nsfwmemes.com,Global
 DOMAIN-SUFFIX,nsimg.net,Global
+DOMAIN-SUFFIX,nsloon.com,Global
 DOMAIN-SUFFIX,nspk.ru,Global
 DOMAIN-SUFFIX,ntc.party,Global
 DOMAIN-SUFFIX,ntd.com,Global
@@ -17230,6 +17257,7 @@ DOMAIN-SUFFIX,oneteamconference.com,Global
 DOMAIN-SUFFIX,onetrust.com,Global
 DOMAIN-SUFFIX,onevps.com,Global
 DOMAIN-SUFFIX,oneworldmanystories.com,Global
+DOMAIN-SUFFIX,onexray.com,Global
 DOMAIN-SUFFIX,onfinality.io,Global
 DOMAIN-SUFFIX,onindiansex.com,Global
 DOMAIN-SUFFIX,oninstagram.com,Global
@@ -18067,6 +18095,7 @@ DOMAIN-SUFFIX,pivotalinitiative.com,Global
 DOMAIN-SUFFIX,piwheels.org,Global
 DOMAIN-SUFFIX,pixanalytics.com,Global
 DOMAIN-SUFFIX,pixapp.net,Global
+DOMAIN-SUFFIX,pixar.com,Global
 DOMAIN-SUFFIX,pixate.com,Global
 DOMAIN-SUFFIX,pixeldrain.com,Global
 DOMAIN-SUFFIX,pixelqi.com,Global
@@ -18747,6 +18776,7 @@ DOMAIN-SUFFIX,privatevpn.com,Global
 DOMAIN-SUFFIX,privilege.hk,Global
 DOMAIN-SUFFIX,privilege.tw,Global
 DOMAIN-SUFFIX,privoxy.org,Global
+DOMAIN-SUFFIX,prizrak.app,Global
 DOMAIN-SUFFIX,procopytips.com,Global
 DOMAIN-SUFFIX,proctoscopeexam.com,Global
 DOMAIN-SUFFIX,prod-my.games,Global
@@ -19985,6 +20015,7 @@ DOMAIN-SUFFIX,seaporn.org,Global
 DOMAIN-SUFFIX,search.aol.com,Global
 DOMAIN-SUFFIX,search.com,Global
 DOMAIN-SUFFIX,search.xxx,Global
+DOMAIN-SUFFIX,searchlightpictures.com,Global
 DOMAIN-SUFFIX,searx.me,Global
 DOMAIN-SUFFIX,seasidestory.tokyo,Global
 DOMAIN-SUFFIX,seattlefdc.com,Global
@@ -20304,6 +20335,7 @@ DOMAIN-SUFFIX,sh83.xyz,Global
 DOMAIN-SUFFIX,shadbase.com,Global
 DOMAIN-SUFFIX,shadeyouvpn.com,Global
 DOMAIN-SUFFIX,shadowcomplex.com,Global
+DOMAIN-SUFFIX,shadowlaunch.com,Global
 DOMAIN-SUFFIX,shadowslaves.com,Global
 DOMAIN-SUFFIX,shadowsocks.be,Global
 DOMAIN-SUFFIX,shadowsocks.com,Global
@@ -21231,6 +21263,8 @@ DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com,Global
 DOMAIN-SUFFIX,starwarsjedifallenorder.com,Global
 DOMAIN-SUFFIX,starwarskids.com,Global
 DOMAIN-SUFFIX,starwarstheoldrepublic.com,Global
+DOMAIN-SUFFIX,stash.wiki,Global
+DOMAIN-SUFFIX,stash.ws,Global
 DOMAIN-SUFFIX,stateofthemap.com,Global
 DOMAIN-SUFFIX,stateofthemap.org,Global
 DOMAIN-SUFFIX,static-cisco.com,Global
@@ -22062,6 +22096,7 @@ DOMAIN-SUFFIX,thetype.com,Global
 DOMAIN-SUFFIX,theuab.net,Global
 DOMAIN-SUFFIX,theverge.com,Global
 DOMAIN-SUFFIX,thevirtualsexreview.com,Global
+DOMAIN-SUFFIX,thewaltdisneycompany.com,Global
 DOMAIN-SUFFIX,theweek.com,Global
 DOMAIN-SUFFIX,theweek.in,Global
 DOMAIN-SUFFIX,thewgo.org,Global
@@ -22320,6 +22355,7 @@ DOMAIN-SUFFIX,tokyo-porn-tube.com,Global
 DOMAIN-SUFFIX,tokyo-sports.co.jp,Global
 DOMAIN-SUFFIX,tokyo-tosho.net,Global
 DOMAIN-SUFFIX,tokyocn.com,Global
+DOMAIN-SUFFIX,tokyodisneyresort.jp,Global
 DOMAIN-SUFFIX,tokyomotion.com,Global
 DOMAIN-SUFFIX,tokyomotion.net,Global
 DOMAIN-SUFFIX,tokyonightstyle.com,Global
@@ -24094,6 +24130,7 @@ DOMAIN-SUFFIX,walmart-content.com,Global
 DOMAIN-SUFFIX,walmart.com,Global
 DOMAIN-SUFFIX,walmart.pharmacy,Global
 DOMAIN-SUFFIX,walmartimages.com,Global
+DOMAIN-SUFFIX,waltdisneystudios.com,Global
 DOMAIN-SUFFIX,waltermartin.com,Global
 DOMAIN-SUFFIX,waltermartin.org,Global
 DOMAIN-SUFFIX,wana-tv.sbs,Global
@@ -24320,6 +24357,7 @@ DOMAIN-SUFFIX,wfm.com,Global
 DOMAIN-SUFFIX,wforum.com,Global
 DOMAIN-SUFFIX,wgcdn.co,Global
 DOMAIN-SUFFIX,wgcrowd.io,Global
+DOMAIN-SUFFIX,wgtunnel.com,Global
 DOMAIN-SUFFIX,whasil.xyz,Global
 DOMAIN-SUFFIX,what-fan.net,Global
 DOMAIN-SUFFIX,whatblocked.com,Global
@@ -24535,6 +24573,7 @@ DOMAIN-SUFFIX,wirelessgroup.co.uk,Global
 DOMAIN-SUFFIX,wirelessreach.com,Global
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com,Global
 DOMAIN-SUFFIX,wireshark.org,Global
+DOMAIN-SUFFIX,wiresock.net,Global
 DOMAIN-SUFFIX,wise-research.com,Global
 DOMAIN-SUFFIX,wise.com,Global
 DOMAIN-SUFFIX,wisecoin.com,Global
