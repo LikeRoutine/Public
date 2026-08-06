@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX, openai.com, US
+DOMAIN-SUFFIX, chatgpt.com, US
+DOMAIN-SUFFIX, oaistatic.com, US
+DOMAIN-SUFFIX, oaiusercontent.com, US
+DOMAIN-SUFFIX, anthropic.com, US
+DOMAIN-SUFFIX, claude.ai, US
 
 DOMAIN-KEYWORD, openai, US
 DOMAIN-KEYWORD, chatgpt, US
@@ -5,5 +11,3 @@ DOMAIN-KEYWORD, oaistatic, US
 DOMAIN-KEYWORD, oaiusercontent, US
 DOMAIN-KEYWORD, anthropic, US
 DOMAIN-KEYWORD, claude, US
-DOMAIN-SUFFIX,anthropic.com, US
-DOMAIN-SUFFIX,claude.ai, US
