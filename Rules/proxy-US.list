@@ -19,5 +19,6 @@ DOMAIN, gist.github.com, US
 DOMAIN-SUFFIX, google.com, US
 DOMAIN-SUFFIX, gstatic.com, US
 DOMAIN-KEYWORD, gemini, US
+DOMAIN-SUFFIX, googleapis.com, US
 
 DOMAIN-SUFFIX, spotify.com, US
