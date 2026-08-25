@@ -13,5 +13,9 @@ DOMAIN-KEYWORD, oaiusercontent, US
 DOMAIN-KEYWORD, anthropic, US
 DOMAIN-KEYWORD, claude, US
 
-DOMAIN, github.com, Exit
-DOMAIN, gist.github.com, Exit
+DOMAIN, github.com, US
+DOMAIN, gist.github.com, US
+
+DOMAIN-SUFFIX, google.com, US
+DOMAIN-SUFFIX, gstatic.com, US
+DOMAIN-KEYWORD, gemini, US
