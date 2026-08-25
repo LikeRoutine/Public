@@ -4,6 +4,7 @@ DOMAIN-SUFFIX, yt.be, YouTube
 DOMAIN-SUFFIX, googlevideo.com, YouTube
 DOMAIN-SUFFIX, ytimg.com, YouTube
 DOMAIN-SUFFIX, ggpht.com, YouTube
+DOMAIN, youtubei.googleapis.com, YouTube
 
 ip-asn, 15169, Google
 ip-asn, 24424, Google
