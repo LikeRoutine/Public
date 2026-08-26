@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX, google.com, Exit
-DOMAIN-SUFFIX, gstatic.com, Exit
-DOMAIN-SUFFIX, googleapis.com, Exit
+DOMAIN-SUFFIX, google.com, US
+DOMAIN-SUFFIX, gstatic.com, US
+DOMAIN-KEYWORD, gemini, US
+DOMAIN-SUFFIX, googleapis.com, US
