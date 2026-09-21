@@ -5720,6 +5720,7 @@ DOMAIN-SUFFIX,code-class.ru,Global
 DOMAIN-SUFFIX,code.org,Global
 DOMAIN-SUFFIX,codeberg.org,Global
 DOMAIN-SUFFIX,codeberg.page,Global
+DOMAIN-SUFFIX,codebuff.com,Global
 DOMAIN-SUFFIX,codecademy.com,Global
 DOMAIN-SUFFIX,codeforaliving.io,Global
 DOMAIN-SUFFIX,codeforces.com,Global
@@ -8837,10 +8838,12 @@ DOMAIN-SUFFIX,fiotolia.com,Global
 DOMAIN-SUFFIX,fire-emblem-heroes.com,Global
 DOMAIN-SUFFIX,firearmsworld.net,Global
 DOMAIN-SUFFIX,firebase.com,Global
+DOMAIN-SUFFIX,firebase.dev,Global
 DOMAIN-SUFFIX,firebase.io,Global
 DOMAIN-SUFFIX,firebaseapp.com,Global
 DOMAIN-SUFFIX,firebaseio.com,Global
 DOMAIN-SUFFIX,fireemblemawakening.com,Global
+DOMAIN-SUFFIX,firefox-portal-detection.com,Global
 DOMAIN-SUFFIX,firefox.com,Global
 DOMAIN-SUFFIX,firefox.hu,Global
 DOMAIN-SUFFIX,firefoxtweetmachine.com,Global
@@ -9255,6 +9258,7 @@ DOMAIN-SUFFIX,freebigmovies.com,Global
 DOMAIN-SUFFIX,freebrowser.org,Global
 DOMAIN-SUFFIX,freebs.com,Global
 DOMAIN-SUFFIX,freebsd.org,Global
+DOMAIN-SUFFIX,freebuff.com,Global
 DOMAIN-SUFFIX,freecamsfan.com,Global
 DOMAIN-SUFFIX,freecartoons.biz,Global
 DOMAIN-SUFFIX,freechatnow.com,Global
@@ -22003,6 +22007,7 @@ DOMAIN-SUFFIX,textnow.com,Global
 DOMAIN-SUFFIX,textnow.me,Global
 DOMAIN-SUFFIX,texttobuy.org,Global
 DOMAIN-SUFFIX,texture.com,Global
+DOMAIN-SUFFIX,tfbnw.net,Global
 DOMAIN-SUFFIX,tfc-taiwan.org.tw,Global
 DOMAIN-SUFFIX,tferwq.com,Global
 DOMAIN-SUFFIX,tfhub.dev,Global
