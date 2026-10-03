@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX, youtube.com, YouTube
 DOMAIN-SUFFIX, youtu.be, YouTube
 DOMAIN-SUFFIX, yt.be, YouTube
-DOMAIN-SUFFIX, googlevideo.com, YouTube
-DOMAIN-SUFFIX, ytimg.com, YouTube
-DOMAIN-SUFFIX, ggpht.com, YouTube
+DOMAIN-SUFFIX, googlevideo.com, Entry
+DOMAIN-SUFFIX, ytimg.com, Entry
+DOMAIN-SUFFIX, ggpht.com, Entry
 DOMAIN, youtubei.googleapis.com, YouTube
