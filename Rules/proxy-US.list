@@ -13,5 +13,6 @@ DOMAIN-KEYWORD, oaiusercontent, US
 DOMAIN-KEYWORD, anthropic, US
 DOMAIN-KEYWORD, claude, US
 
-DOMAIN, github.com, US
-DOMAIN, gist.github.com, US
+DOMAIN-SUFFIX, x.ai, US
+DOMAIN-SUFFIX, grok.com, US
+DOMAIN-KEYWORD, grok, US
