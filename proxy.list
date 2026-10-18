@@ -6132,6 +6132,7 @@ DOMAIN-SUFFIX,cursor-cdn.com,Global
 DOMAIN-SUFFIX,cursor.com,Global
 DOMAIN-SUFFIX,cursor.sh,Global
 DOMAIN-SUFFIX,cursorapi.com,Global
+DOMAIN-SUFFIX,cursorvm.com,Global
 DOMAIN-SUFFIX,curve.fi,Global
 DOMAIN-SUFFIX,curvefish.com,Global
 DOMAIN-SUFFIX,curvybbwwives.com,Global
@@ -17470,6 +17471,7 @@ DOMAIN-SUFFIX,op7979.com,Global
 DOMAIN-SUFFIX,opac-project.eu,Global
 DOMAIN-SUFFIX,open.firstory.me,Global
 DOMAIN-SUFFIX,openai.com,Global
+DOMAIN-SUFFIX,openai.org,Global
 DOMAIN-SUFFIX,openamt.com,Global
 DOMAIN-SUFFIX,openapiplatform.com,Global
 DOMAIN-SUFFIX,openapiservice.com,Global
@@ -20110,6 +20112,7 @@ DOMAIN-SUFFIX,schwab.com.cn,Global
 DOMAIN-SUFFIX,schwab.com.hk,Global
 DOMAIN-SUFFIX,schwab.com.sg,Global
 DOMAIN-SUFFIX,schwabassetmanagement.com,Global
+DOMAIN-SUFFIX,schwabcdn.com,Global
 DOMAIN-SUFFIX,schwabplan.com,Global
 DOMAIN-SUFFIX,sci-hub.ee,Global
 DOMAIN-SUFFIX,sci-hub.it.nf,Global
@@ -22469,6 +22472,8 @@ DOMAIN-SUFFIX,timesofindia.indiatimes.com,Global
 DOMAIN-SUFFIX,timestalks.com,Global
 DOMAIN-SUFFIX,timeweb.cloud,Global
 DOMAIN-SUFFIX,timeweb.com,Global
+DOMAIN-SUFFIX,timeweb.tech,Global
+DOMAIN-SUFFIX,timewebcloud.kz,Global
 DOMAIN-SUFFIX,timi1.me,Global
 DOMAIN-SUFFIX,timo0.com,Global
 DOMAIN-SUFFIX,timtales.com,Global
@@ -23046,6 +23051,7 @@ DOMAIN-SUFFIX,typekit.com,Global
 DOMAIN-SUFFIX,typekit.net,Global
 DOMAIN-SUFFIX,typenetwork.com,Global
 DOMAIN-SUFFIX,typepad.com,Global
+DOMAIN-SUFFIX,typesafe.ai,Global
 DOMAIN-SUFFIX,typeset.io,Global
 DOMAIN-SUFFIX,typesquare.com,Global
 DOMAIN-SUFFIX,typography.com,Global
