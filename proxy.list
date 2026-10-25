@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,11jav.com,Global
 DOMAIN-SUFFIX,123-hp.com,Global
 DOMAIN-SUFFIX,123av.com,Global
 DOMAIN-SUFFIX,123av.me,Global
+DOMAIN-SUFFIX,123av.org,Global
 DOMAIN-SUFFIX,123bin.cc,Global
 DOMAIN-SUFFIX,123dapp.com,Global
 DOMAIN-SUFFIX,123dappipad.com,Global
@@ -175,6 +176,7 @@ DOMAIN-SUFFIX,1password.ca,Global
 DOMAIN-SUFFIX,1password.co,Global
 DOMAIN-SUFFIX,1password.com,Global
 DOMAIN-SUFFIX,1password.community,Global
+DOMAIN-SUFFIX,1password.dev,Global
 DOMAIN-SUFFIX,1password.eu,Global
 DOMAIN-SUFFIX,1password.io,Global
 DOMAIN-SUFFIX,1passwordservices.com,Global
@@ -5175,6 +5177,10 @@ DOMAIN-SUFFIX,cdnxxx-proxy.xyz,Global
 DOMAIN-SUFFIX,cdp1998.org,Global
 DOMAIN-SUFFIX,cdp2006.org,Global
 DOMAIN-SUFFIX,cdpeu.org,Global
+DOMAIN-SUFFIX,cdpred.services,Global
+DOMAIN-SUFFIX,cdprojekt.com,Global
+DOMAIN-SUFFIX,cdprojekt.red,Global
+DOMAIN-SUFFIX,cdprojektred.com,Global
 DOMAIN-SUFFIX,cdpuk.co.uk,Global
 DOMAIN-SUFFIX,cdpweb.org,Global
 DOMAIN-SUFFIX,cdpwu.org,Global
@@ -6190,6 +6196,7 @@ DOMAIN-SUFFIX,cyber-bay.org,Global
 DOMAIN-SUFFIX,cybercrimecon.com,Global
 DOMAIN-SUFFIX,cyberghostvpn.com,Global
 DOMAIN-SUFFIX,cybermondaybeats4sale.com,Global
+DOMAIN-SUFFIX,cyberpunk.net,Global
 DOMAIN-SUFFIX,cybersport.ru,Global
 DOMAIN-SUFFIX,cybertrust.co.jp,Global
 DOMAIN-SUFFIX,cybertrust.ne.jp,Global
@@ -13687,6 +13694,7 @@ DOMAIN-SUFFIX,kilmeadeandfriends.com,Global
 DOMAIN-SUFFIX,kimchi.tv,Global
 DOMAIN-SUFFIX,kimi.ai,Global
 DOMAIN-SUFFIX,kimogirl.cc,Global
+DOMAIN-SUFFIX,kimootoko.net,Global
 DOMAIN-SUFFIX,kimosex.com,Global
 DOMAIN-SUFFIX,kindgirls.com,Global
 DOMAIN-SUFFIX,kindindianporn.com,Global
@@ -15530,6 +15538,7 @@ DOMAIN-SUFFIX,miniwidget.ca,Global
 DOMAIN-SUFFIX,miniwindsor.com,Global
 DOMAIN-SUFFIX,miniworkshop.com,Global
 DOMAIN-SUFFIX,miniyaletown.ca,Global
+DOMAIN-SUFFIX,minkch.com,Global
 DOMAIN-SUFFIX,minnano-av.com,Global
 DOMAIN-SUFFIX,minne.com,Global
 DOMAIN-SUFFIX,minneapolisbmw.com,Global
@@ -16921,6 +16930,7 @@ DOMAIN-SUFFIX,nixos.wiki,Global
 DOMAIN-SUFFIX,nixpkgs.org,Global
 DOMAIN-SUFFIX,niziero.info,Global
 DOMAIN-SUFFIX,njactb.org,Global
+DOMAIN-SUFFIX,njav.com,Global
 DOMAIN-SUFFIX,njav.tv,Global
 DOMAIN-SUFFIX,njavtv.com,Global
 DOMAIN-SUFFIX,njpw.co.jp,Global
@@ -18367,6 +18377,7 @@ DOMAIN-SUFFIX,playfab.com,Global
 DOMAIN-SUFFIX,playfabapi.com,Global
 DOMAIN-SUFFIX,playfamily.ru,Global
 DOMAIN-SUFFIX,playforceone.com,Global
+DOMAIN-SUFFIX,playgwent.com,Global
 DOMAIN-SUFFIX,playhearthstone.com,Global
 DOMAIN-SUFFIX,playmation.com,Global
 DOMAIN-SUFFIX,playmeow.com,Global
@@ -18416,6 +18427,7 @@ DOMAIN-SUFFIX,pmatehunter.com,Global
 DOMAIN-SUFFIX,pmem.org,Global
 DOMAIN-SUFFIX,pmem.us,Global
 DOMAIN-SUFFIX,pnas.org,Global
+DOMAIN-SUFFIX,po-kaki-to.com,Global
 DOMAIN-SUFFIX,po2b.com,Global
 DOMAIN-SUFFIX,pobeda.page,Global
 DOMAIN-SUFFIX,pobl-content.com,Global
@@ -22349,6 +22361,7 @@ DOMAIN-SUFFIX,theweek.com,Global
 DOMAIN-SUFFIX,theweek.in,Global
 DOMAIN-SUFFIX,thewgo.org,Global
 DOMAIN-SUFFIX,thewirechina.com,Global
+DOMAIN-SUFFIX,thewitcher.com,Global
 DOMAIN-SUFFIX,thewonderful101.com,Global
 DOMAIN-SUFFIX,theync.com,Global
 DOMAIN-SUFFIX,theyxxx.com,Global
@@ -25325,15 +25338,15 @@ DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,Global
 DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com,Global
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais,Global
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai,Global
-DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk,Global
-DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g,Global
-DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk,Global
-DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g,Global
+DOMAIN-SUFFIX,xn--fiq80y.hk,Global
+DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g,Global
+DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk,Global
+DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g,Global
+DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk,Global
+DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e,Global
 DOMAIN-SUFFIX,xn--flw351e,Global
 DOMAIN-SUFFIX,xn--flw351e.com,Global
-DOMAIN-SUFFIX,xn--gdt08a.hk,Global
-DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--ggle-55da.com,Global
 DOMAIN-SUFFIX,xn--gmq348bujlxrb.com,Global
 DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com,Global
@@ -25353,8 +25366,6 @@ DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com,Global
 DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e,Global
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net,Global
 DOMAIN-SUFFIX,xn--mtswd61ejxq.com,Global
-DOMAIN-SUFFIX,xn--mxtq18a.hk,Global
-DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Global
 DOMAIN-SUFFIX,xn--noss43i.com,Global
 DOMAIN-SUFFIX,xn--oiq.cc,Global
@@ -25362,14 +25373,10 @@ DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Global
 DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com,Global
 DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk,Global
 DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g,Global
-DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk,Global
-DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g,Global
+DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk,Global
 DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g,Global
-DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk,Global
-DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g,Global
-DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk,Global
-DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g,Global
+DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--q41am8x.com,Global
 DOMAIN-SUFFIX,xn--qcka1pmc,Global
 DOMAIN-SUFFIX,xn--qoq462m.com,Global
@@ -25385,11 +25392,7 @@ DOMAIN-SUFFIX,xn--uis17aj9kmuf.com,Global
 DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--urs05q.jp,Global
 DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com,Global
-DOMAIN-SUFFIX,xn--wcv22d.hk,Global
-DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g,Global
-DOMAIN-SUFFIX,xn--wcvs22d1m.hk,Global
-DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g,Global
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz,Global
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.net,Global
 DOMAIN-SUFFIX,xn--xsq421m.com,Global
@@ -26503,6 +26506,7 @@ DOMAIN-SUFFIX,zorglist.com,Global
 DOMAIN-SUFFIX,zorrovpn.com,Global
 DOMAIN-SUFFIX,zotero.org,Global
 DOMAIN-SUFFIX,zozotown.com,Global
+DOMAIN-SUFFIX,zozovideo.com,Global
 DOMAIN-SUFFIX,zpagov.net,Global
 DOMAIN-SUFFIX,zpath.com,Global
 DOMAIN-SUFFIX,zpn.im,Global
