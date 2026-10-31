@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,18comic-god.club,Global
 DOMAIN-SUFFIX,18comic-god.xyz,Global
 DOMAIN-SUFFIX,18comic.cc,Global
 DOMAIN-SUFFIX,18comic.company,Global
+DOMAIN-SUFFIX,18comic.ink,Global
 DOMAIN-SUFFIX,18comic.org,Global
 DOMAIN-SUFFIX,18comic.vip,Global
 DOMAIN-SUFFIX,18commic.com,Global
@@ -3659,6 +3660,7 @@ DOMAIN-SUFFIX,bingapistatistics.com,Global
 DOMAIN-SUFFIX,bingoporno.com,Global
 DOMAIN-SUFFIX,bingparachute.com,Global
 DOMAIN-SUFFIX,bingsandbox.com,Global
+DOMAIN-SUFFIX,bingstatic.com,Global
 DOMAIN-SUFFIX,bingvisualsearch.com,Global
 DOMAIN-SUFFIX,bingworld.com,Global
 DOMAIN-SUFFIX,bingx.com,Global
@@ -4614,6 +4616,7 @@ DOMAIN-SUFFIX,bsappapi.com,Global
 DOMAIN-SUFFIX,bscdnweb.com,Global
 DOMAIN-SUFFIX,bsi.ir,Global
 DOMAIN-SUFFIX,bsky.app,Global
+DOMAIN-SUFFIX,bsky.chat,Global
 DOMAIN-SUFFIX,bsky.network,Global
 DOMAIN-SUFFIX,bsky.social,Global
 DOMAIN-SUFFIX,bspb.ru,Global
@@ -10063,6 +10066,7 @@ DOMAIN-SUFFIX,githubapp.com,Global
 DOMAIN-SUFFIX,githubassets.com,Global
 DOMAIN-SUFFIX,githubcopilot.com,Global
 DOMAIN-SUFFIX,githubhackathon.com,Global
+DOMAIN-SUFFIX,githubhelp.com,Global
 DOMAIN-SUFFIX,githubnext.com,Global
 DOMAIN-SUFFIX,githubpreview.dev,Global
 DOMAIN-SUFFIX,githubstatus.com,Global
@@ -15989,6 +15993,7 @@ DOMAIN-SUFFIX,msftconnecttest.com,Global
 DOMAIN-SUFFIX,msfteducation.ca,Global
 DOMAIN-SUFFIX,msftncsi.com,Global
 DOMAIN-SUFFIX,msftnet.org,Global
+DOMAIN-SUFFIX,msftstatic.com,Global
 DOMAIN-SUFFIX,msgamesresearch.com,Global
 DOMAIN-SUFFIX,msgamestudios.com,Global
 DOMAIN-SUFFIX,msha.gov,Global
@@ -22510,9 +22515,12 @@ DOMAIN-SUFFIX,tiktokeu-cdn.com,Global
 DOMAIN-SUFFIX,tiktokglobalshopv.com,Global
 DOMAIN-SUFFIX,tiktokminis.us,Global
 DOMAIN-SUFFIX,tiktokrow-cdn.com,Global
+DOMAIN-SUFFIX,tiktokshop.com,Global
+DOMAIN-SUFFIX,tiktokstaticb.com,Global
 DOMAIN-SUFFIX,tiktokv.com,Global
 DOMAIN-SUFFIX,tiktokv.eu,Global
 DOMAIN-SUFFIX,tiktokv.us,Global
+DOMAIN-SUFFIX,tiktokvapp.com,Global
 DOMAIN-SUFFIX,tiktokw.eu,Global
 DOMAIN-SUFFIX,tiktokw.us,Global
 DOMAIN-SUFFIX,tilda.cc,Global
