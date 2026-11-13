@@ -49,7 +49,6 @@ DOMAIN-SUFFIX, h.trace.qq.com, REJECT
 DOMAIN-SUFFIX, oth.eve.mdt.qq.com, REJECT
 DOMAIN-SUFFIX, report.kg.qq.com, REJECT
 DOMAIN-SUFFIX, analytics.tiktok.com, REJECT
-#DOMAIN-SUFFIX, hotpatch.cup.com.cn, REJECT
 DOMAIN-SUFFIX, adim.pinduoduo.com, REJECT
 DOMAIN-SUFFIX, wwads.cn, REJECT
 DOMAIN-SUFFIX, dtmall-tel.alicdn.com, REJECT
