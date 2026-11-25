@@ -4807,6 +4807,7 @@ DOMAIN-SUFFIX,cabletv.com.hk,Global
 DOMAIN-SUFFIX,cabletvdirectv.com,Global
 DOMAIN-SUFFIX,cachefly.com,Global
 DOMAIN-SUFFIX,cachefly.net,Global
+DOMAIN-SUFFIX,cachix.org,Global
 DOMAIN-SUFFIX,cacnw.com,Global
 DOMAIN-SUFFIX,cactusvpn.com,Global
 DOMAIN-SUFFIX,cad-mep.com,Global
@@ -8651,10 +8652,12 @@ DOMAIN-SUFFIX,fastindianporn.com,Global
 DOMAIN-SUFFIX,fastlane.ci,Global
 DOMAIN-SUFFIX,fastlane.tools,Global
 DOMAIN-SUFFIX,fastly-edge.com,Global
+DOMAIN-SUFFIX,fastly-insights.com,Global
 DOMAIN-SUFFIX,fastly-terrarium.com,Global
 DOMAIN-SUFFIX,fastly.com,Global
 DOMAIN-SUFFIX,fastly.io,Global
 DOMAIN-SUFFIX,fastly.net,Global
+DOMAIN-SUFFIX,fastlydns.net,Global
 DOMAIN-SUFFIX,fastlylabs.com,Global
 DOMAIN-SUFFIX,fastlylb.net,Global
 DOMAIN-SUFFIX,fastpic.ru,Global
@@ -23915,6 +23918,7 @@ DOMAIN-SUFFIX,viu.com,Global
 DOMAIN-SUFFIX,viu.tv,Global
 DOMAIN-SUFFIX,vivaldi.com,Global
 DOMAIN-SUFFIX,vivaxnxx.com,Global
+DOMAIN-SUFFIX,vivox.com,Global
 DOMAIN-SUFFIX,vivthomas.com,Global
 DOMAIN-SUFFIX,vixen.com,Global
 DOMAIN-SUFFIX,vixengroup.com,Global
